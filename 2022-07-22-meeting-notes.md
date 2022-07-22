@@ -2,8 +2,8 @@
 
 - node and yarn installed?
 - template project setup
-- run `yarn install` to install dependencies.
-  `yarn dev` and see if it's working
+- run `npm install` to install dependencies.
+  `npm run dev` and see if it's working
 - vscode setup:
 
   install the following set of vscode extensions
