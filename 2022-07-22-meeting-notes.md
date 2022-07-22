@@ -18,7 +18,7 @@
 
 - initialize git, make first commit and push code to github, add me as collaborator
 
-- create a vercel account and deploy your project
+- create a [vercel account](https://vercel.com/signup) and deploy your project
 
 - learn about the **Component Midset**. What's a **Component Library**
 
